@@ -1,175 +1,175 @@
-"KeywordID"	"Keyword"	"ScopeNote"	"Source"	"gdsdpwgCategory"
-2493	"3-D"		"NGDSGeoportal2013-04"	
-8510	"abandonment"		"NGDSGeoportal2013-04"	
-1138	"abatement"		"NGDSGeoportal2013-04"	
-1522	"abrasion"		"NGDSGeoportal2013-04"	
-1428	"absorption"		"NGDSGeoportal2013-04"	
-1351	"acid"		"NGDSGeoportal2013-04"	
-1764	"acoustic"		"NGDSGeoportal2013-04"	
-543	"adsorption"		"NGDSGeoportal2013-04"	
-255	"agricultural use"		"NGDSGeoportal2013-04"	"01"
-160	"alteration"		"NGDSGeoportal2013-04"	
-44	"business"		"NGDSGeoportal2013-04"	"03"
-3817	"carbon dioxide"		"NGDSGeoportal2013-04"	
-104	"case study"		"NGDSGeoportal2013-04"	
-2708	"cement"		"NGDSGeoportal2013-04"	
-390	"cooling"		"NGDSGeoportal2013-04"	
-2	"data"		"NGDSGeoportal2013-04"	
-13	"direct use"		"NGDSGeoportal2013-04"	"Direct Use"
-108	"document"		"NGDSGeoportal2013-04"	
-956	"bit"		"NGDSGeoportal2013-04"	"02.4"
-21	"drilling"		"NGDSGeoportal2013-04"	"02"
-25	"economics"		"NGDSGeoportal2013-04"	"03"
-357	"element"		"NGDSGeoportal2013-04"	
-1023	"energy"		"NGDSGeoportal2013-04"	
-368	"engineering"		"NGDSGeoportal2013-04"	
-36	"enhanced geothermal"		"NGDSGeoportal2013-04"	"07.3"
-38	"environment"		"NGDSGeoportal2013-04"	
-322	"equipment"		"NGDSGeoportal2013-04"	
-5	"exploration"		"NGDSGeoportal2013-04"	
-1434	"fluid production"		"NGDSGeoportal2013-04"	
-491	"fluids"		"NGDSGeoportal2013-04"	
-47	"fracture"		"NGDSGeoportal2013-04"	
-1765	"geochemical fluid"		"NGDSGeoportal2013-04"	
-14	"geochemistry"		"NGDSGeoportal2013-04"	"05"
-225	"geochronology"		"NGDSGeoportal2013-04"	"06.1"
-1	"geology"		"NGDSGeoportal2013-04"	"06"
-23	"geophysics"		"NGDSGeoportal2013-04"	"08"
-27	"geothermal energy"		"NGDSGeoportal2013-04"	
-206	"geothermal fluid"		"NGDSGeoportal2013-04"	
-6	"geothermal system"		"NGDSGeoportal2013-04"	
-573	"geothermal use"		"NGDSGeoportal2013-04"	
-41	"heat flow"		"NGDSGeoportal2013-04"	"09"
-114	"ground source heat pump"		"NGDSGeoportal2013-04"	
-1986	"high pressure"		"NGDSGeoportal2013-04"	
-172	"high temperature"		"NGDSGeoportal2013-04"	
-107	"hot dry rock"		"NGDSGeoportal2013-04"	"07.3"
-72	"hydrogeology"		"NGDSGeoportal2013-04"	
-519	"image"		"NGDSGeoportal2013-04"	
-2494	"inversion"		"NGDSGeoportal2013-04"	
-121	"isotope"		"NGDSGeoportal2013-04"	"05.2"
-432	"kgra"		"NGDSGeoportal2013-04"	
-3077	"land"		"NGDSGeoportal2013-04"	
-58	"legal"		"NGDSGeoportal2013-04"	
-10967	"low pressure"		"NGDSGeoportal2013-04"	
-105	"low temperature"		"NGDSGeoportal2013-04"	
-11163	"medium pressure"		"NGDSGeoportal2013-04"	
-2196	"mine"		"NGDSGeoportal2013-04"	
-1137	"mineralogy"		"NGDSGeoportal2013-04"	
-35	"modeling"		"NGDSGeoportal2013-04"	"10.1"
-273	"moderate temperature"		"NGDSGeoportal2013-04"	
-265	"oil and gas"		"NGDSGeoportal2013-04"	
-31	"operations"		"NGDSGeoportal2013-04"	
-513	"organic compound"		"NGDSGeoportal2013-04"	
-3576	"over pressured"		"NGDSGeoportal2013-04"	
-62	"physical property"		"NGDSGeoportal2013-04"	
-15	"power generation"		"NGDSGeoportal2013-04"	"10.4"
-144	"pressure"		"NGDSGeoportal2013-04"	
-470	"production"		"NGDSGeoportal2013-04"	
-70	"public relations"		"NGDSGeoportal2013-04"	
-214	"remote sensing"		"NGDSGeoportal2013-04"	"08.4"
-24	"research"		"NGDSGeoportal2013-04"	
-11	"reservoir"	"information about characterization of a geothermal reservoir as a kind of aquifer"	"NGDSGeoportal2013-04"	
-63	"resource assessment"		"NGDSGeoportal2013-04"	"10.2"
-353	"sample"		"NGDSGeoportal2013-04"	
-193	"seismicity"		"NGDSGeoportal2013-04"	"11"
-53	"service"		"NGDSGeoportal2013-04"	
-363	"software"		"NGDSGeoportal2013-04"	
-796	"stimulation"		"NGDSGeoportal2013-04"	
-272	"subsidence"		"NGDSGeoportal2013-04"	
-73	"technology"		"NGDSGeoportal2013-04"	
-39	"temperature"		"NGDSGeoportal2013-04"	
-128	"testing"		"NGDSGeoportal2013-04"	
-88	"thermal spring"		"NGDSGeoportal2013-04"	
-195	"thermodynamics"		"NGDSGeoportal2013-04"	
-3166	"visualization"		"NGDSGeoportal2013-04"	
-1037	"vocabulary"		"NGDSGeoportal2013-04"	
-138	"volcanism"		"NGDSGeoportal2013-04"	
-101	"well"		"NGDSGeoportal2013-04"	
-48	"well engineering"		"NGDSGeoportal2013-04"	
-139	"well log"		"NGDSGeoportal2013-04"	"13"
-12	"well operations"		"NGDSGeoportal2013-04"	
-10	"x"		"NGDSGeoportal2013-04"	
-11164	"2-D"		"SMR keyword cleanup 2013-04-30"	
-11165	"coproduction"		"SMR keyword cleanup 2013-04-30"	
-11166	"hydrothermal system"		"SMR keyword cleanup 2013-04-30"	
-11167	"ambiguous"		"SMR keyword cleanup 2013-04-30"	
-11168	"reservoir engineering"	"information about operational factors in production of fluid from geothermal reservoir--maintenance of production, flow rates, temperature, etc…"	"SMR add based on Ziagos et al., 2013"	"10"
-11169	"sensor"	"information about instruments designed to make measurements"	"SMR add based on Ziagos et al., 2013"	
-11170	"artificial tracer"		"gdsdpwgFacet"	"12.2"
-11172	"development"		"NGDSkeywords"	
-11173	"discharge testing"		"gdsdpwgFacet"	"10.3"
-11174	"drilling economics"		"gdsdpwgFacet"	"02.1"
-11175	"drilling tools"		"gdsdpwgFacet"	"02.4"
-11176	"environmental monitoring"		"gdsdpwgFacet"	"04"
-11178	"gas analyses"		"gdsdpwgFacet"	"05.3"
-11179	"geologic map"		"gdsdpwgFacet"	"06.2"
-11180	"geophysical log"		"gdsdpwgFacet"	"13.1"
-11181	"geothermometry"		"gdsdpwgFacet"	"05.1"
-11182	"liquid dominated"		"gdsdpwgFacet"	"07.1.1"
-11183	"lithology log"		"gdsdpwgFacet"	"13.2"
-11185	"natural tracer"		"gdsdpwgFacet"	"12.1"
-11186	"reservoir monitoring"		"gdsdpwgFacet"	"10.6"
-11187	"reservoir numerical simulation"		"gdsdpwgFacet"	"10.1"
-11188	"rock analyses"		"gdsdpwgFacet"	"05.6"
-11189	"sedimentary basin geothermal system"		"gdsdpwgFacet"	"07.5"
-11190	"spring water analyses"		"gdsdpwgFacet"	"05.5.1"
-11191	"temperature log"		"gdsdpwgFacet"	"13.3"
-11192	"vapor dominated"		"gdsdpwgFacet"	"07.1.2"
-11193	"water analyses"		"gdsdpwgFacet"	"05.5"
-11194	"well field operations"		"gdsdpwgFacet"	"10.5"
-11195	"well water analyses"		"gdsdpwgFacet"	"05.5"
-11196	"wellhead equipment"		"gdsdpwgFacet"	"02.3"
-11208	"power purchase"		"NGDSkeywords"	"03"
-11215	"pump"		"NGDSkeywords"	
-11217	"quality"		"NGDSkeywords"	
-11228	"refrigerant"		"NGDSkeywords"	
-11238	"resistivity"		"NGDSkeywords"	"08.1"
-11244	"risk"		"NGDSkeywords"	
-11255	"scaling"		"NGDSkeywords"	
-11257	"seismic"		"gdsdpwgFacet"	"08.5"
-11263	"silica"		"NGDSkeywords"	
-11272	"soil"		"gdsdpwgFacet"	"05.4"
-11293	"algorithm"		"NGDSkeywords"	
-11318	"binary system"		"NGDSKeywords"	"10.4"
-11319	"biology"		"NGDSKeywords"	
-11325	"brine treatment"		"NGDSKeywords"	"10.4"
-11329	"by product"		"NGDSkeywords"	
-11339	"casing"		"gdsdpwgFacet"	"02.2"
-11348	"collocation"		"NGDSKeywords"	
-11352	"computation"		"NGDSKeywords"	
-11358	"control system"		"NGDSKeywords"	
-11362	"Conventional Convective Geothermal Systems"		"gdsdpwgFacet"	"07.1"
-11365	"coproduced fluid"		"gdsdpwgFacet"	"07.2"
-11366	"corrosion"		"NGDSKeywords"	
-11373	"database"		"NGDSkeywords"	
-11375	"deformation"		"NGDSkeywords"	
-11378	"desalination"		"NGDSkeywords"	
-11379	"diagram"		"NGDSkeywords"	
-11394	"electrical"		"gdsdpwgFacet"	"08.1"
-11396	"electromagnetic"		"NGDSkeywords"	"08.1"
-11413	"fault"		"gdsdpwgFacet"	"06.3"
-11417	"finance"		"NGDSkeywords"	"03"
-11422	"fluid disposal"		"NGDSkeywords"	
-11423	"fluid flow"		"NGDSkeywords"	
-11439	"geopressured"		"gdsdpwgFacet"	"07.4"
-11441	"geothermal area"		"NGDSkeywords"	
-11452	"gravity"		"gdsdpwgFacet"	"08.2"
-11460	"heat exchange"		"NGDSkeywords"	
-11463	"heat transfer"		"NGDSkeywords"	
-11492	"injection"		"NGDSkeywords"	
-11521	"lithology"		"NGDSkeywords"	
-11523	"lost circulation"		"NGDSkeywords"	"02"
-11529	"magnetic"		"gdsdpwgFacet"	"08.3"
-11532	"map"		"NGDSkeywords"	
-11535	"materials"		"NGDSkeywords"	
-11542	"metadata"		"NGDSkeywords"	
-11547	"mineral"		"NGDSkeywords"	
-11561	"mud"		"NGDSkeywords"	"02"
-11601	"pipe"		"NGDSKeywords"	
-11617	"stress"		"gdsdpwgFacet"	"06.4"
-11630	"tax"		"NGDSkeywords"	
-11647	"tracer"		"gdsdpwgFacet"	"12"
-11648	"training"		"NGDSkeywords"	
-11650	"turbine"		"NGDSkeywords"	"10.4"
-11652	"two phase"		"NGDSkeywords"	
+"KeywordID","Keyword","ScopeNote","Source","gdsdpwgCategory"
+2493,"3-D",,"NGDSGeoportal2013-04",
+8510,"abandonment",,"NGDSGeoportal2013-04",
+1138,"abatement",,"NGDSGeoportal2013-04",
+1522,"abrasion",,"NGDSGeoportal2013-04",
+1428,"absorption",,"NGDSGeoportal2013-04",
+1351,"acid",,"NGDSGeoportal2013-04",
+1764,"acoustic",,"NGDSGeoportal2013-04",
+543,"adsorption",,"NGDSGeoportal2013-04",
+255,"agricultural use",,"NGDSGeoportal2013-04","01"
+160,"alteration",,"NGDSGeoportal2013-04",
+44,"business",,"NGDSGeoportal2013-04","03"
+3817,"carbon dioxide",,"NGDSGeoportal2013-04",
+104,"case study",,"NGDSGeoportal2013-04",
+2708,"cement",,"NGDSGeoportal2013-04",
+390,"cooling",,"NGDSGeoportal2013-04",
+2,"data",,"NGDSGeoportal2013-04",
+13,"direct use",,"NGDSGeoportal2013-04","Direct Use"
+108,"document",,"NGDSGeoportal2013-04",
+956,"bit",,"NGDSGeoportal2013-04","02.4"
+21,"drilling",,"NGDSGeoportal2013-04","02"
+25,"economics",,"NGDSGeoportal2013-04","03"
+357,"element",,"NGDSGeoportal2013-04",
+1023,"energy",,"NGDSGeoportal2013-04",
+368,"engineering",,"NGDSGeoportal2013-04",
+36,"enhanced geothermal",,"NGDSGeoportal2013-04","07.3"
+38,"environment",,"NGDSGeoportal2013-04",
+322,"equipment",,"NGDSGeoportal2013-04",
+5,"exploration",,"NGDSGeoportal2013-04",
+1434,"fluid production",,"NGDSGeoportal2013-04",
+491,"fluids",,"NGDSGeoportal2013-04",
+47,"fracture",,"NGDSGeoportal2013-04",
+1765,"geochemical fluid",,"NGDSGeoportal2013-04",
+14,"geochemistry",,"NGDSGeoportal2013-04","05"
+225,"geochronology",,"NGDSGeoportal2013-04","06.1"
+1,"geology",,"NGDSGeoportal2013-04","06"
+23,"geophysics",,"NGDSGeoportal2013-04","08"
+27,"geothermal energy",,"NGDSGeoportal2013-04",
+206,"geothermal fluid",,"NGDSGeoportal2013-04",
+6,"geothermal system",,"NGDSGeoportal2013-04",
+573,"geothermal use",,"NGDSGeoportal2013-04",
+41,"heat flow",,"NGDSGeoportal2013-04","09"
+114,"ground source heat pump",,"NGDSGeoportal2013-04",
+1986,"high pressure",,"NGDSGeoportal2013-04",
+172,"high temperature",,"NGDSGeoportal2013-04",
+107,"hot dry rock",,"NGDSGeoportal2013-04","07.3"
+72,"hydrogeology",,"NGDSGeoportal2013-04",
+519,"image",,"NGDSGeoportal2013-04",
+2494,"inversion",,"NGDSGeoportal2013-04",
+121,"isotope",,"NGDSGeoportal2013-04","05.2"
+432,"kgra",,"NGDSGeoportal2013-04",
+3077,"land",,"NGDSGeoportal2013-04",
+58,"legal",,"NGDSGeoportal2013-04",
+10967,"low pressure",,"NGDSGeoportal2013-04",
+105,"low temperature",,"NGDSGeoportal2013-04",
+11163,"medium pressure",,"NGDSGeoportal2013-04",
+2196,"mine",,"NGDSGeoportal2013-04",
+1137,"mineralogy",,"NGDSGeoportal2013-04",
+35,"modeling",,"NGDSGeoportal2013-04","10.1"
+273,"moderate temperature",,"NGDSGeoportal2013-04",
+265,"oil and gas",,"NGDSGeoportal2013-04",
+31,"operations",,"NGDSGeoportal2013-04",
+513,"organic compound",,"NGDSGeoportal2013-04",
+3576,"over pressured",,"NGDSGeoportal2013-04",
+62,"physical property",,"NGDSGeoportal2013-04",
+15,"power generation",,"NGDSGeoportal2013-04","10.4"
+144,"pressure",,"NGDSGeoportal2013-04",
+470,"production",,"NGDSGeoportal2013-04",
+70,"public relations",,"NGDSGeoportal2013-04",
+214,"remote sensing",,"NGDSGeoportal2013-04","08.4"
+24,"research",,"NGDSGeoportal2013-04",
+11,"reservoir","information about characterization of a geothermal reservoir as a kind of aquifer","NGDSGeoportal2013-04",
+63,"resource assessment",,"NGDSGeoportal2013-04","10.2"
+353,"sample",,"NGDSGeoportal2013-04",
+193,"seismicity",,"NGDSGeoportal2013-04","11"
+53,"service",,"NGDSGeoportal2013-04",
+363,"software",,"NGDSGeoportal2013-04",
+796,"stimulation",,"NGDSGeoportal2013-04",
+272,"subsidence",,"NGDSGeoportal2013-04",
+73,"technology",,"NGDSGeoportal2013-04",
+39,"temperature",,"NGDSGeoportal2013-04",
+128,"testing",,"NGDSGeoportal2013-04",
+88,"thermal spring",,"NGDSGeoportal2013-04",
+195,"thermodynamics",,"NGDSGeoportal2013-04",
+3166,"visualization",,"NGDSGeoportal2013-04",
+1037,"vocabulary",,"NGDSGeoportal2013-04",
+138,"volcanism",,"NGDSGeoportal2013-04",
+101,"well",,"NGDSGeoportal2013-04",
+48,"well engineering",,"NGDSGeoportal2013-04",
+139,"well log",,"NGDSGeoportal2013-04","13"
+12,"well operations",,"NGDSGeoportal2013-04",
+10,"x",,"NGDSGeoportal2013-04",
+11164,"2-D",,"SMR keyword cleanup 2013-04-30",
+11165,"coproduction",,"SMR keyword cleanup 2013-04-30",
+11166,"hydrothermal system",,"SMR keyword cleanup 2013-04-30",
+11167,"ambiguous",,"SMR keyword cleanup 2013-04-30",
+11168,"reservoir engineering","information about operational factors in production of fluid from geothermal reservoir--maintenance of production, flow rates, temperature, etc…","SMR add based on Ziagos et al., 2013","10"
+11169,"sensor","information about instruments designed to make measurements","SMR add based on Ziagos et al., 2013",
+11170,"artificial tracer",,"gdsdpwgFacet","12.2"
+11172,"development",,"NGDSkeywords",
+11173,"discharge testing",,"gdsdpwgFacet","10.3"
+11174,"drilling economics",,"gdsdpwgFacet","02.1"
+11175,"drilling tools",,"gdsdpwgFacet","02.4"
+11176,"environmental monitoring",,"gdsdpwgFacet","04"
+11178,"gas analyses",,"gdsdpwgFacet","05.3"
+11179,"geologic map",,"gdsdpwgFacet","06.2"
+11180,"geophysical log",,"gdsdpwgFacet","13.1"
+11181,"geothermometry",,"gdsdpwgFacet","05.1"
+11182,"liquid dominated",,"gdsdpwgFacet","07.1.1"
+11183,"lithology log",,"gdsdpwgFacet","13.2"
+11185,"natural tracer",,"gdsdpwgFacet","12.1"
+11186,"reservoir monitoring",,"gdsdpwgFacet","10.6"
+11187,"reservoir numerical simulation",,"gdsdpwgFacet","10.1"
+11188,"rock analyses",,"gdsdpwgFacet","05.6"
+11189,"sedimentary basin geothermal system",,"gdsdpwgFacet","07.5"
+11190,"spring water analyses",,"gdsdpwgFacet","05.5.1"
+11191,"temperature log",,"gdsdpwgFacet","13.3"
+11192,"vapor dominated",,"gdsdpwgFacet","07.1.2"
+11193,"water analyses",,"gdsdpwgFacet","05.5"
+11194,"well field operations",,"gdsdpwgFacet","10.5"
+11195,"well water analyses",,"gdsdpwgFacet","05.5"
+11196,"wellhead equipment",,"gdsdpwgFacet","02.3"
+11208,"power purchase",,"NGDSkeywords","03"
+11215,"pump",,"NGDSkeywords",
+11217,"quality",,"NGDSkeywords",
+11228,"refrigerant",,"NGDSkeywords",
+11238,"resistivity",,"NGDSkeywords","08.1"
+11244,"risk",,"NGDSkeywords",
+11255,"scaling",,"NGDSkeywords",
+11257,"seismic",,"gdsdpwgFacet","08.5"
+11263,"silica",,"NGDSkeywords",
+11272,"soil",,"gdsdpwgFacet","05.4"
+11293,"algorithm",,"NGDSkeywords",
+11318,"binary system",,"NGDSKeywords","10.4"
+11319,"biology",,"NGDSKeywords",
+11325,"brine treatment",,"NGDSKeywords","10.4"
+11329,"by product",,"NGDSkeywords",
+11339,"casing",,"gdsdpwgFacet","02.2"
+11348,"collocation",,"NGDSKeywords",
+11352,"computation",,"NGDSKeywords",
+11358,"control system",,"NGDSKeywords",
+11362,"Conventional Convective Geothermal Systems",,"gdsdpwgFacet","07.1"
+11365,"coproduced fluid",,"gdsdpwgFacet","07.2"
+11366,"corrosion",,"NGDSKeywords",
+11373,"database",,"NGDSkeywords",
+11375,"deformation",,"NGDSkeywords",
+11378,"desalination",,"NGDSkeywords",
+11379,"diagram",,"NGDSkeywords",
+11394,"electrical",,"gdsdpwgFacet","08.1"
+11396,"electromagnetic",,"NGDSkeywords","08.1"
+11413,"fault",,"gdsdpwgFacet","06.3"
+11417,"finance",,"NGDSkeywords","03"
+11422,"fluid disposal",,"NGDSkeywords",
+11423,"fluid flow",,"NGDSkeywords",
+11439,"geopressured",,"gdsdpwgFacet","07.4"
+11441,"geothermal area",,"NGDSkeywords",
+11452,"gravity",,"gdsdpwgFacet","08.2"
+11460,"heat exchange",,"NGDSkeywords",
+11463,"heat transfer",,"NGDSkeywords",
+11492,"injection",,"NGDSkeywords",
+11521,"lithology",,"NGDSkeywords",
+11523,"lost circulation",,"NGDSkeywords","02"
+11529,"magnetic",,"gdsdpwgFacet","08.3"
+11532,"map",,"NGDSkeywords",
+11535,"materials",,"NGDSkeywords",
+11542,"metadata",,"NGDSkeywords",
+11547,"mineral",,"NGDSkeywords",
+11561,"mud",,"NGDSkeywords","02"
+11601,"pipe",,"NGDSKeywords",
+11617,"stress",,"gdsdpwgFacet","06.4"
+11630,"tax",,"NGDSkeywords",
+11647,"tracer",,"gdsdpwgFacet","12"
+11648,"training",,"NGDSkeywords",
+11650,"turbine",,"NGDSkeywords","10.4"
+11652,"two phase",,"NGDSkeywords",
